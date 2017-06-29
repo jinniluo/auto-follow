@@ -1,0 +1,1 @@
+$('.ProfileMain-buttons .Button.FollowButton.Button--primary').click();
